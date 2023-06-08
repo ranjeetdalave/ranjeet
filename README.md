@@ -1,4 +1,4 @@
-# Personal Portfho
+# Personal Portfolio
 //code for this
 <!DOCTYPE html>
 <html lang="en">
